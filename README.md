@@ -1,4 +1,4 @@
-# Learning rxjs
+# Learning RxJS
 
 # Asynchronous and reactive programming
 
